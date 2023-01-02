@@ -28,8 +28,8 @@ Nonprofit, Higher Education, Government
 Slides: [Large Scale Drupal at the University of Oregon](Large-Scale-Drupal-at-the-University-of-Oregon.pptx)
 
 Speaker(s):
-- Vid Rowan
-- Daniel Mundra
+- [Vid Rowan](https://www.drupal.org/u/_vid)
+- [Daniel Mundra](https://www.drupal.org/u/dmundra)
 
 Session Track: DevOps + Performance
 
