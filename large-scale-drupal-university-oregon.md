@@ -24,11 +24,13 @@ While we lack a strong, central authority to guide technology decisions, we bene
 ## Intended Audience
 
 Nonprofit, Higher Education, Government
-Slides: Large Scale Drupal at the University of Oregon
+
+Slides: [Large Scale Drupal at the University of Oregon](Large-Scale-Drupal-at-the-University-of-Oregon.pptx)
 
 Speaker(s):
 - Vid Rowan
 - Daniel Mundra
 
 Session Track: DevOps + Performance
+
 Experience level: Advanced
