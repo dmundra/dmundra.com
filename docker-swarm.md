@@ -1,6 +1,6 @@
 # Docker Swarm
 
-_Archive page from 2020_
+_Archived page from 2020_
 
 CASIT Web services has been researching a developing a system to host our WordPress, Drupal and other legacy sites. The system as designed revolves around a few key technologies. Primarily Docker Swarm as the management and orchestration system. Nginx as the reverse proxy, loadbalancer, SSL processor and caching system. NFS and Convoy as the persistent data storage system hosted on Netapp filers. The system is designed around a single user community not as a shared services model.
 
@@ -35,6 +35,7 @@ We have provision a 1TB volume from our CAS SVM on the IS cluster in the CC. Thi
 View our running containers on the swarm at Docker Visualizer (only available on campus).
 
 ## Acknowledgments
+
 ### Information Services (IS)
 IS provided the infrastructure and support to help design and implement our solution.
 
@@ -43,6 +44,7 @@ IS provided the infrastructure and support to help design and implement our solu
 * Matthew Shepard
 * Derek Smith
 * Justin Spencer
+
 ### College of Arts and Sciences Information Technology Support Service (CASIT)
 CASIT researched the solution and are the primary users of it.
 
